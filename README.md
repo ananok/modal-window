@@ -1,2 +1,2 @@
 # modal-window
--Liv page: https://ananok.github.io/modal-window/
+-Live: https://ananok.github.io/modal-window/
